@@ -12,14 +12,15 @@ Quelques captures d'écran ci-dessous :
 
 ## Captures d'écran
 
-![connexion](images/projetFed/PF-connexion.png)
+![connexion](https://github.com/LeoThinnes/UX-UI/blob/main/Images/projetFed/PF-Accuei.png)
 <p align=center> <i>Page de connexion</i> </p>
 </br></br>
 
-![accueil](images/projetFed/PF-Accuei.png)
+![accueil](https://github.com/LeoThinnes/UX-UI/blob/main/Images/projetFed/PF-connexion.png)
 <p align=center><i>Page d'accueil</i></p>
 </br></br>
 
-![espaceClient](images/projetFed/PF-EspaceClient.png)
+![espaceClient](https://github.com/LeoThinnes/UX-UI/blob/main/Images/projetFed/PF-EspaceClient.png)
 <p align=center><i>Page espace client</i></p>
+
 
