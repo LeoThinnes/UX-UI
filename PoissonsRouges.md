@@ -5,7 +5,7 @@
 
 <b>Lien des Maquettes :</b> [Projet Figma ici](https://www.figma.com/file/Ejmle3evVdwZLohsBShrG2/PoissonsRouges?node-id=0%3A1)
 
-Le projet a été ensuite réalisé en Androïd (Kotlin). [Code source.]()
+Le projet a été ensuite réalisé en Androïd (Kotlin). [Code source.](https://github.com/LeoThinnes/PoissonsRouges)
 
 </br>
 Quelques captures d'écran en dessous.
